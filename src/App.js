@@ -24,7 +24,7 @@ function App() {
       <AppBar position="static">
         <Toolbar>
           <Typography variant='h5'>
-            Tasks Management
+            To-Do List
           </Typography>
           <Button
             color="inherit"
